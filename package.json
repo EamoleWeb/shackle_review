@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    "andx": "react-native run-android --no-jetifier",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
@@ -35,6 +36,7 @@
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-awesome-card-io": "^0.8.3",
+    "react-native-cli": "^2.0.1",
     "react-native-confirmation-code-field": "^6.0.0-rc.1",
     "react-native-counters": "^1.2.0",
     "react-native-divider": "^1.0.3",
